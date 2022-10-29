@@ -48,7 +48,7 @@ function App() {
                         <li key={el.id}>
                             <span>{el.id}</span>
                             <span>{el.title}</span>
-                            {/*<span>{`${el.completed}`}</span>*/}
+                            <span>{`${el.completed}`}</span>
                         </li>
                     )
 
