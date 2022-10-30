@@ -50,6 +50,7 @@ function App() {
                             <span>{el.title}</span>
                             <span>{`${el.completed}`}</span>
                             <span>{`${el.completed}`}</span>
+                            <span>{`${el.completed}`}</span>
                         </li>
                     )
 
